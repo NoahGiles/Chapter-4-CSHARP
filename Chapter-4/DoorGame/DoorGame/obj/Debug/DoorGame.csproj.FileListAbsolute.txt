@@ -1,0 +1,7 @@
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\DoorGame\DoorGame\bin\Debug\DoorGame.exe.config
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\DoorGame\DoorGame\bin\Debug\DoorGame.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\DoorGame\DoorGame\bin\Debug\DoorGame.pdb
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\DoorGame\DoorGame\obj\Debug\DoorGame.csprojAssemblyReference.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\DoorGame\DoorGame\obj\Debug\DoorGame.csproj.CoreCompileInputs.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\DoorGame\DoorGame\obj\Debug\DoorGame.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\DoorGame\DoorGame\obj\Debug\DoorGame.pdb
