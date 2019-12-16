@@ -8,3 +8,13 @@ C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\Rochambeau\Rochambeau\obj\D
 C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.csproj.CoreCompileInputs.cache
 C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.exe
 C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.pdb
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\bin\Debug\Rochambeau.exe.config
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\bin\Debug\Rochambeau.exe
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\bin\Debug\Rochambeau.pdb
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.csprojAssemblyReference.cache
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.Form1.resources
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.Properties.Resources.resources
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.csproj.GenerateResource.cache
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.csproj.CoreCompileInputs.cache
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.exe
+C:\Users\ng146468\Desktop\Chapter-4-CSHARP\Chapter-4\Rochambeau\Rochambeau\obj\Debug\Rochambeau.pdb
